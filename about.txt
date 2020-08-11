@@ -1,0 +1,12 @@
+ABOUT THIS PROJECT
+
+This folder contains two .py files.
+1)game1.py
+2)game2.py
+
+-->game1.py file contains the game with conditional statements.Simple basic python syntax is used.
+-->game2.py file contains the game made with tkinter.
+
+All the images used in game2.py folder are available in images folder.
+
+
