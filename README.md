@@ -1,8 +1,3 @@
-# RockPaperScissor-Game
-
-Rock paper Scissor is the basic game that every begginner programmer do.
-
-1.Using python loops and conditional statements  
-2.GUI tkinter  
+# Tkinter Applications Part-2
  
 > ### _**If you find this useful, just leave a :star:**_
