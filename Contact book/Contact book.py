@@ -47,7 +47,7 @@ def add():
     elif ph_no.get()=="":
         messagebox.showerror("Error","Phone number is required")
     else:
-        con = pymysql.connect(host='localhost', user='root', password='Poojita12345@', db='contact_book')
+        con = pymysql.connect(host='localhost', user='root', password='password', db='contact_book')
         cur = con.cursor()
         cur.execute("select * from details where cname=%s",name.get())
         row = cur.fetchone()
